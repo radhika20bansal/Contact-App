@@ -41,7 +41,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### `npm start`
 
-In server-api folder to open the server at '[http://localhost:3006]' which will be used to connect to client side.
+In server-api folder to open the server at [http://localhost:3006](http://localhost:3006) which will be used to connect to client side.
 
 ## Learn More
 
