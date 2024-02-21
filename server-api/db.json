@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "093db650-ee52-4d58-8b72-fe9493f2d82f",
+      "name": "Piyush",
+      "email": "piyush.bhardwaj@3pillarglobal.com"
+    },
+    {
+      "id": "ef747fc2-0351-4d96-9eb6-f96d662c8e7b",
+      "name": "Vibhor",
+      "email": "vkaushik+41@straighterline.com"
+    },
+    {
+      "id": "c58164dd-2184-416b-b3f0-f311a031fea7",
+      "name": "Radhika",
+      "email": "rbansal+222@straighterline.com"
+    },
+    {
+      "id": "4bcc09ba-4839-4bc2-a7f1-af865fab5db7",
+      "name": "Joe",
+      "email": "jhanley@straighterline.com"
+    },
+    {
+      "id": "3acf1c77-603f-4cd5-b8a1-963f47dbf7cd",
+      "name": "Prakhar",
+      "email": "prakhar.k199@gmail.com"
+    }
+  ]
+}
